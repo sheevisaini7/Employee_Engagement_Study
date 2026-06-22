@@ -4,7 +4,7 @@
 
 ## About the Project
 
-For this project, I led a team of 11 members to consuct a data-driven employee engagement study conducted for Apex Writing Instruments Pvt. Ltd., a mid-sized Indian pen and pencil manufacturer that grew from ₹4,000 crores to ₹50,000 crores and is targeting ₹1,00,000 crores in the next two years. Despite strong business growth, the company was experiencing a significant and sustained decline in employee engagement across all departments and locations.
+For this project, I led a team of 11 members to conduct a data-driven employee engagement study conducted for Apex Writing Instruments Pvt. Ltd., a mid-sized Indian pen and pencil manufacturer that grew from ₹4,000 crores to ₹50,000 crores and is targeting ₹1,00,000 crores in the next two years. Despite strong business growth, the company was experiencing a significant and sustained decline in employee engagement across all departments and locations.
 
 The study was commissioned by Mr. Rajesh, Vice President of Human Resources, and prepared for the Board of Directors. It covers the Production, Design, and Middle Management departments across four office locations — Delhi, Mumbai, Pune, and Hyderabad.
 
