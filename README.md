@@ -4,9 +4,9 @@
 
 ## About the Project
 
-This project is a data-driven employee engagement study conducted for Apex Writing Instruments Pvt. Ltd., a mid-sized Indian pen and pencil manufacturer that grew from ₹4,000 crores to ₹50,000 crores and is targeting ₹1,00,000 crores in the next two years. Despite strong business growth, the company was experiencing a significant and sustained decline in employee engagement across all departments and locations.
+For this project, I led a team of 11 members to consuct a data-driven employee engagement study conducted for Apex Writing Instruments Pvt. Ltd., a mid-sized Indian pen and pencil manufacturer that grew from ₹4,000 crores to ₹50,000 crores and is targeting ₹1,00,000 crores in the next two years. Despite strong business growth, the company was experiencing a significant and sustained decline in employee engagement across all departments and locations.
 
-The study was commissioned by Mr. Rajesh, Vice President – Human Resources, and prepared for the Board of Directors. It covers the Production, Design, and Middle Management departments across four office locations — Delhi, Mumbai, Pune, and Hyderabad.
+The study was commissioned by Mr. Rajesh, Vice President of Human Resources, and prepared for the Board of Directors. It covers the Production, Design, and Middle Management departments across four office locations — Delhi, Mumbai, Pune, and Hyderabad.
 
 ---
 
@@ -35,14 +35,14 @@ The study was commissioned by Mr. Rajesh, Vice President – Human Resources, an
 
 ## Key Findings
 
-- Engagement never crossed the neutral midpoint (4.0) across all five years — pointing to a structural, not event-driven, problem
-- Overall engagement dropped from 3.06 in 2019 to 2.01 in 2023 — a 34.31% decline
-- 2021 was the crisis year — all 8 dimensions fell below 2.0, with the overall average hitting 1.89 (coinciding with COVID-19 and aggressive growth targets simultaneously)
-- A W-shaped (double-valley) trend — a partial recovery in 2022 was followed by another collapse in 2023, indicating no structural fix was implemented
-- Senior Managers — the most experienced and highest-paid group — recorded the lowest 5-year average engagement (2.31), showing seniority does not protect engagement
-- Managers dropped to 1.69 in 2021 — the lowest designation score in the entire study
+- Engagement never crossed the neutral midpoint (4.0) across all five years which points to a structural problem
+- Overall engagement dropped from 3.06 in 2019 to 2.01 in 2023, a 34.31% overall decline
+- 2021 was the crisis year in which all 8 dimensions fell below 2.0, with the overall average hitting 1.89 (coinciding with COVID-19 and aggressive growth targets simultaneously)
+- A W-shaped (double-valley) trend shows that the partial recovery in 2022 was followed by another collapse in 2023, indicating no structural fix was implemented
+- Senior Managers — the most experienced and highest-paid group recorded the lowest 5-year average engagement (2.31), showing seniority does not imply higher engagement
+- Managers dropped to 1.69 in 2021 which is the lowest designation score in the entire study
 - Mumbai has zero Team Leaders, leaving 30 Associates without supervisory support
-- Higher pay does not equal higher engagement — ₹61K+ earners are the least engaged; ₹21–40K Team Leaders are the most engaged
+- Higher pay does not equal higher engagement. ₹61K+ earners are the least engaged; ₹21–40K Team Leaders are the most engaged
 - D5 (Pride in Work): 78% of employees chose "Strongly Disagree" (rating 1) in 2023, down from 34% being positively engaged in 2019
 - Delhi saw the sharpest city-wise decline at 38.7% over five years
 
