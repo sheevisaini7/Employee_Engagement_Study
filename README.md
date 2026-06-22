@@ -72,6 +72,7 @@ The study was commissioned by Mr. Rajesh, Vice President – Human Resources, an
 
 | File | Description |
 |------|-------------|
+| `Case_File/` | Case Study used for the project |
 | `Dataset/` | HR dataset used for analysis |
 | `Dashboard_Image/` | Power BI dashboard screenshots/exports |
 | `PowerBI_Presentation/` | Final presentation deck (.pptx) |
